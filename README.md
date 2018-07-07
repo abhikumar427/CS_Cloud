@@ -2,7 +2,7 @@
 Benchmark different parts of computer system using Chameleon testbed (CS553)
 
 Run CPU Benchmark
-Directory ‘PA1_VICHARE_’ has all the benchmarking programs. Files
+Directory ‘PA1_Kumar_’ has all the benchmarking programs. Files
 ‘cpu_benchmark.c’ and ‘cpu_benchmark_2.c’ performs CPU benchmark.
 ‘cpu_benchmark.c’ - This program calculates latency, GFLOPS and GIOPS of CPU
 at varying concurrency level for 1, 2, 4 and 8 threads.
